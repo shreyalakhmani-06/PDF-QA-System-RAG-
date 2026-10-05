@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+data/vector_store/
+data/eval_store/
+data/pdf/*.pdf
